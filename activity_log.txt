@@ -7,3 +7,4 @@ Update changelog — 2025-07-20 21:54:33
 Polish README formatting — 2025-08-05 23:58:49
 Minor style cleanup — 2025-09-03 12:12:42
 Update helper notes — 2025-09-24 22:17:03
+Fix typo in documentation — 2025-10-01 19:54:24
