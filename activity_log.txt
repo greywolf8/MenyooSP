@@ -12,3 +12,4 @@ Fix typo in documentation — 2025-10-25 22:52:27
 Update helper notes — 2025-10-27 14:27:47
 Bump log timestamp — 2025-11-20 19:05:35
 Add comment for clarity — 2025-11-23 22:55:06
+Chore: tidy up script — 2025-12-04 20:01:31
